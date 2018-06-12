@@ -7,6 +7,8 @@ class Vegetable {
    var $titi;
    var $color;
    var $toto;
+   var $titititi;
+   var $hello;
 
    function __construct($edible, $color="green")
    {
