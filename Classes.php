@@ -19,6 +19,14 @@ class Vegetable {
        return $this->edible;
    }
 
+   function getGree() {
+		return $this->gree;
+   }
+   
+  function getBlue() {
+		return $this->gree;
+   }
+   
    function what_color()
    {
        return $this->color;
