@@ -4,7 +4,9 @@
 class Vegetable {
 
    var $edible;
+   var $titi;
    var $color;
+   var $toto;
 
    function __construct($edible, $color="green")
    {
